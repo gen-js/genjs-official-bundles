@@ -1,5 +1,5 @@
 sql-postgresql:
   description:
-    Generates the SQL file for schema creation in PostgreSQL
+    Generates the SQL schema creation file for PostgreSQL
   url:
     https://github.com/gen-js-bundles/sql-postgresql
