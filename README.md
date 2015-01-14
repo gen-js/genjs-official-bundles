@@ -1,2 +1,3 @@
-# genjs-official-bundles
-GenJS official bundles
+# GenJS official bundles
+
+Official bundles for GenJS generator.
