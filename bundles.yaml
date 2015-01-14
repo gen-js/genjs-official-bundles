@@ -1,5 +1,5 @@
 sql-postgresql:
   description:
-    GenJS SQL generator for PostgreSQL
+    SQL schema creation file for PostgreSQL
   url:
     https://github.com/gen-js-bundles/sql-postgresql
