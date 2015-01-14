@@ -3,3 +3,8 @@ sql-postgresql:
     Generates the SQL schema creation file for PostgreSQL
   url:
     https://github.com/gen-js-bundles/sql-postgresql
+test:
+  description:
+    TOTO
+  url:
+    http://www.google.fr
