@@ -3,3 +3,8 @@ sql-postgresql:
     Generates the SQL file of the schema creation for PostgreSQL
   url:
     https://github.com/gen-js-bundles/sql-postgresql
+springmvc-springdatajpa
+  description:
+    Spring MVC + Spring Data JPA
+  url:
+    https://github.com/gen-js-bundles/springmvc-springdatajpa
